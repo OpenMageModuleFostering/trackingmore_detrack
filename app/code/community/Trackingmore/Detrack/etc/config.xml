@@ -104,6 +104,7 @@
                 <rewrite>
                    <sales_order_shipment_view_tracking>Trackingmore_Detrack_Block_Adminhtml_Sales_Order_Shipment_View_Tracking</sales_order_shipment_view_tracking>
                     <sales_order_shipment_create_tracking>Trackingmore_Detrack_Block_Adminhtml_Sales_Order_Shipment_Create_Tracking</sales_order_shipment_create_tracking>
+					<sales_order_invoice_create_tracking>Trackingmore_Detrack_Block_Adminhtml_Sales_Order_Invoice_Create_Tracking</sales_order_invoice_create_tracking>
                 </rewrite>
             </adminhtml>
         </blocks>
