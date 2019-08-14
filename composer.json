@@ -3,8 +3,7 @@
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
-    "description": "real-time  track orders & cross-selling solution.  Support tracking of UPS, FedEx, USPS & 300+ carriers. 
-",
+    "description": "real-time track orders & cross-selling solution. Support tracking of UPS, FedEx, USPS & 380+ carriers.",
     "authors": [
     {
         "name": "Charles",
