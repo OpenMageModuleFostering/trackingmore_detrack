@@ -1,0 +1,17 @@
+{
+    "name": "OpenMageModuleFostering/trackingmore_detrack",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "real-time  track orders & cross-selling solution.  Support tracking of UPS, FedEx, USPS & 100+ carriers. 
+  ",
+    "authors": [
+    {
+        "name": "Charles ",
+        "email": "wjj706@126.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
