@@ -70,8 +70,8 @@
                             <comment>
                                 <![CDATA[
 									<ol>
-										<li style="margin-bottom:10px !important;">1. Sign up at <a href="http://my.trackingmore.com/" target="_blank">my.trackingmore.com</a></li>
-										<li style="margin-bottom:10px !important;">2. Go to <a href="http://my.trackingmore.com/api_keys.php" taget="_blank">"API keys"</a> and generate new key</li>
+										<li style="margin-bottom:10px !important;">1. Sign up at <a href="//my.trackingmore.com/" target="_blank">my.trackingmore.com</a></li>
+										<li style="margin-bottom:10px !important;">2. Go to <a href="//my.trackingmore.com/api_keys.php" taget="_blank">"API keys"</a> and generate new key</li>
 										<li style="margin-bottom:10px !important;">3. Copy API key and paste to the field below</li>
 										<li style="margin-bottom:10px !important;">4. Change status to "Enabled" and click "Save Config"</li>
 										<li>5. Now the plugin is active and running</li>
@@ -165,8 +165,8 @@
 								<![CDATA[
 
 									<ol>
-										<li style="margin-bottom:10px !important;">1. <a href="http://www.trackingmore.com/signup.html" target="_blank">Sign up TrackingMore account</a> for FREE</li>
-										<li style="margin-bottom:10px !important;">2. Go to <a href="http://my.trackingmore.com/smssetting.php" target="_blank">“Notifications”</a> and set Notification </li>
+										<li style="margin-bottom:10px !important;">1. <a href="//www.trackingmore.com/signup.html" target="_blank">Sign up TrackingMore account</a> for FREE</li>
+										<li style="margin-bottom:10px !important;">2. Go to <a href="//my.trackingmore.com/smssetting.php" target="_blank">“Notifications”</a> and set Notification </li>
 										<li>3. TrackingMore will automatically import shipments created at Magento.</li>
 									</ol>
 								]]>
