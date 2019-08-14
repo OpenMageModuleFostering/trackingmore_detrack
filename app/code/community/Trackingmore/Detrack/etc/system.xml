@@ -60,6 +60,19 @@
                             <show_in_website>0</show_in_website>
                             <show_in_store>0</show_in_store>
                         </last_carrier_update>
+						<version>
+                            <label><![CDATA[<strong>Version</strong>]]></label>
+                            <frontend_type>note</frontend_type>
+                            <sort_order>0</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>0</show_in_store>
+							<comment>
+                                <![CDATA[
+									1.1.0
+								]]>
+                            </comment>
+                        </version>
                         <upgrade_note>
                             <label><![CDATA[<strong>How to setup</strong>]]></label>
                             <frontend_type>note</frontend_type>
@@ -70,11 +83,12 @@
                             <comment>
                                 <![CDATA[
 									<ol>
-										<li style="margin-bottom:10px !important;">1. Sign up at <a href="//my.trackingmore.com/" target="_blank">my.trackingmore.com</a></li>
-										<li style="margin-bottom:10px !important;">2. Go to <a href="//my.trackingmore.com/api_keys.php" taget="_blank">"API keys"</a> and generate new key</li>
-										<li style="margin-bottom:10px !important;">3. Copy API key and paste to the field below</li>
-										<li style="margin-bottom:10px !important;">4. Change status to "Enabled" and click "Save Config"</li>
-										<li>5. Now the plugin is active and running</li>
+										<li style="margin-bottom:10px !important;color:red;">1. This plugin is not compatible with other parcel tracking plugins. Therefore, when using it, please make sure you are not using other parcel tracking plugins!</li>
+										<li style="margin-bottom:10px !important;">2. Sign up at <a href="//my.trackingmore.com/" target="_blank">my.trackingmore.com</a></li>
+										<li style="margin-bottom:10px !important;">3. Go to <a href="//my.trackingmore.com/api_keys.php" taget="_blank">"API keys"</a> and generate new key</li>
+										<li style="margin-bottom:10px !important;">4. Copy API key and paste to the field below</li>
+										<li style="margin-bottom:10px !important;">5. Change status to "Enabled" and click "Save Config"</li>
+										<li>6. Now the plugin is active and running</li>
 									</ol>
 								]]>
                             </comment>
