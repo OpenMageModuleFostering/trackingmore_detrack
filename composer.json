@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/trackingmore_detrack",
+    "name": "openmage-module-fostering\/trackingmore_detrack",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "real-time  track orders & cross-selling solution.  Support tracking of UPS, FedEx, USPS & 400+ carriers. ",
     "authors": [
